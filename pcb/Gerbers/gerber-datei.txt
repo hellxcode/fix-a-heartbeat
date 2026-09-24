@@ -1,0 +1,4 @@
+Plotted to '/home/nils/CoCo/project-design/gerbers/circuit-F_Cu.gbr'.
+Plotted to '/home/nils/CoCo/project-design/gerbers/circuit-Edge_Cuts.gbr'.
+Created Gerber job file '/home/nils/CoCo/project-design/gerbers/circuit-job.gbrjob'.
+Info: Done.
